@@ -48,6 +48,3 @@ Asegurate de tener los archivos 1.csv, 2.csv, 3.csv y 4.csv en la misma carpeta 
 Ejecutar el script con:
 python analisis_ventas.py
 El script procesará los archivos, mostrará resultados por tienda y luego una comparativa general.
-
-📬 Contacto
-Para consultas o mejoras, podés escribirme directamente. ¡Tu feedback es bienvenido! 😊
