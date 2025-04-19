@@ -1,4 +1,4 @@
-nálisis de Ventas por Tienda 
+Análisis de Ventas por Tienda 
 Este proyecto analiza datos de ventas de 4 tiendas distintas, con el fin de extraer estadísticas clave e identificar patrones relevantes en las operaciones comerciales.
 
 📌 Propósito del análisis
